@@ -6,8 +6,7 @@
 
 #
 
-Me chamo Paulo Queiroz, tenho 23 anos e sou natural do Rio de Janeiro. Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonado por tecnologia, curioso sobre Hardware e compartilho meu conhecimento através do
-meu canal no YouTube "[PauloDev](https://www.youtube.com/@paulopontodev)".
+Me chamo Pedro Henrique, sou estudante e curso o ensino tecnico de informatica.
  
 #
 
@@ -15,9 +14,6 @@ meu canal no YouTube "[PauloDev](https://www.youtube.com/@paulopontodev)".
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:paulorobertodequeirozjr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/paulopontodev/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/paulopontodev/)
 
 
 <h3 align="left">My Stack ~</h3>
