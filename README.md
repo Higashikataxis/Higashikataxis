@@ -6,7 +6,7 @@
 
 #
 
-Me chamo Pedro Henrique, sou estudante e curso o ensino tecnico de informatica.
+My name is Pedro, I am a student and I am studying for a technical degree in computer science.
  
 #
 
