@@ -20,7 +20,7 @@ Me chamo Pedro Henrique, sou estudante e curso o ensino tecnico de informatica.
 
 
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">My Certificates ~</h3>
 
 <img 
     align="left" 
