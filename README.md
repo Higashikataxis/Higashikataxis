@@ -84,7 +84,7 @@ Me chamo Pedro Henrique, sou estudante e curso o ensino tecnico de informatica.
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="Aura" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://www.bing.com/th/id/OGC.129a225b3f3d0659428d6d7d53fc21ac?o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fc.tenor.com%2fyawP_WyQ0zIAAAAC%2fhellsing-alucard.gif&ehk=Pr0cLKx2w2WXosM3q6T0ngTvbwnWIHB0XCJHqPSZptY%3d" 
