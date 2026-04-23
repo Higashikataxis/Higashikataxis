@@ -79,7 +79,7 @@ Me chamo Pedro Henrique, sou estudante e curso o ensino tecnico de informatica.
 <br/>
 <br/>
 
-<h3 align="left">GitHub Stats</h3>
+<h3 align="left"> Aura </h3>
 
 <p>
   <img 
